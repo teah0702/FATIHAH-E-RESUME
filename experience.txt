@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Experience</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+
+<header>
+  <h2>FATIHAH E-RESUME | <img src="img/teah2.png" float="right" width="110" height="100" class="animate__animated animate__bounceIn"></h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="index.html"><i class="fa fa-question" aria-hidden="true">About Me</i></a></li>
+<br>
+      <li><a href="personal.html"><i class="fa fa-user-circle" aria-hidden="true">Personal Details</i></a></li>
+<br>      
+      <li><a href="curriculum.html"><i class="fa fa-graduation-cap" aria-hidden="true">Curriculum Vitae</i></a></li>
+<br>      
+      <li><a href="co-curriculum.html"><i class="fa fa-gamepad" aria-hidden="true">Co-curriculum activities</i></a></li>
+<br>      
+      <li><a href="achievement.html"><i class="fa fa-unlock" aria-hidden="true">Achievement</i></a></li>
+<br>      
+      <li><a href="skills.html"><i class="fa fa-hourglass" aria-hidden="true">Skills</i></a></li>
+<br>      
+      <li><a href="contact.html"><i class="fa fa-address-book" aria-hidden="true">Contact Me</i></a></li>
+     <ul>
+<br>
+<br>
+<br>
+<div class="card">
+  <img src="img/teah1.jpg" alt="Fatihah" style="width:100%">
+  <h1>Nur Fatihah</h1>
+  <p class="title">Full-time Student</p>
+  <p>UiTM</p> 
+  </div>
+  </nav>
+
+  <article>
+  <h1 align="center"><b><u>Experience</u></b></h1>
+ <!--Content-->
+<div class="w3-container w3-padding-large" style="margin-bottom:32px" align="center">
+    <p><font face="arial" size="5" color="black">Industrial Training (Perpustakaan Sultan Abdul Samad (UPM))</p>
+<p>
+<img src="img/int1.jpg" style="float : left width="60%" height="80%" align="center">
+<font face="arial" size="5" color="black" align="justify">I have accomplished my internship during diploma for 6 weeks at Perpustakaan Sultan Abdul Samad (UPM).</p><p>It was started from 13 January until 21 February.</p>
+<br>
+<br>
+<img src="img/int2.jpg" style="width:210px" align="center">
+<br>
+<br>
+<img src="img/int3.jpg" style="width:210px" align="center">
+</div>
+<embed src="music/music.mp3" autostart="true" loop="true" hidden="true"></embed>
+  </article>
+</section>
+
+<footer>
+<a href="experience.html" class="button">To The Top</a>
+  <p>Copyright 2021© Nur Fatihah Mohd Sharif. Recommended browser: Google Chrome. Resolution 1108 x 1228. Last update: 11<sup>th</sup> June 2021.
+This site for assignment purpose only.</p>
+</footer>
+
+</body>
+</html>
